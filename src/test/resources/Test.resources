@@ -1,0 +1,19 @@
+url=https://xczmepc414.wiedza.onl/
+
+loginToPubligo=SampleLogin
+passwordToPubligo=SamplePassword
+
+userName=TestUserName1
+emailAddress=TestEmailAddress1@gmail.com
+firstName=TestFirstName
+lastName=TestLastName
+
+DeleteUserAfterTest=True
+
+ProductCategoryName=Kategoria Testowa dla Kursow MZ
+ProductCategorySimplifiedName=kategoria-testowa-mz
+ProductCategoryDescription=Jest to Kategoria testowa stworzona w celu przeprowadzenia testu
+
+ProductTagName=Tag Testowy dla Kursow MZ
+ProduceTagSimplifiedName=tag-testowy-mz
+ProductTagDescription=Jest to Tag testowy stworzona w celu przeprowadzenia testu
